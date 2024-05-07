@@ -1,0 +1,31 @@
+* {
+	background-color: #27374D;
+}
+h1 {
+	text-align: center;
+	color: #526D82;
+}
+footer {
+	text-align: center;
+}
+h2 {
+	font-style: italic;
+	font-size: 25px;
+	color: #526D82;
+}
+h3 {
+	font-style: italic;
+	font-size: 20px;
+	color: #9DB2BF;
+}
+ul {
+  list-style-position: inside;
+  font-style: italic;
+  font-size: 20px;
+  color: #DDE6ED;
+}
+p {
+	font-style: italic;
+	font-size: 25px;
+	color: #DDE6ED;
+}
